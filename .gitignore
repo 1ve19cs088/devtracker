@@ -1,4 +1,18 @@
-node_modules/ 
-__pycache__/ 
-.env 
-*.pyc 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+devtracker.db
+
+# Node
+node_modules/
+build/
+.env.local
+
+# VSCode
+.vscode/
+
+# General
+.DS_Store
